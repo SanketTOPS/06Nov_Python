@@ -8,3 +8,5 @@ fl.write(name)
 fl.write(city)"""
 
 fl.write(f"\nID:{id}\nName:{name}\nCity:{city}")
+
+fl.close()
